@@ -45,7 +45,7 @@ const Header = () => {
             <li className="res__nav__item"><a href="#software" className="res__nav__link">Project</a></li>
             <li className="res__nav__item"><a href="#carusel" className="res__nav__link">Contact me</a></li>
             <div className="res-download">
-              <a href="">Resume</a>
+              <a href="https://www.canva.com/design/DAGDikASBa4/aRTZiSWHzXZZpFJ0SZwiNg/edit">Resume</a>
               <img src={download} alt="Download" />
             </div>
             <div className="res-header-icons">
